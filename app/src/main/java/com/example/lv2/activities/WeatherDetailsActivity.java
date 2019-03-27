@@ -1,8 +1,7 @@
-package com.example.lv2.activites;
+package com.example.lv2.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.example.lv2.R;

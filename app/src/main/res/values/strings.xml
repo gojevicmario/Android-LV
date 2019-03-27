@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Lv 2</string>
     <string name="title_activity_weather_details">WeatherDetailsActivity</string>
+    <string name="wind_label">Wind</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="air_pressure_label">Air pressure</string>
 </resources>
