@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3190261,
+    "name": "Split",
+    "country": "HR",
+    "coordinates": {
+      "lon": 16.43915,
+      "lat": 43.508911
+    }
+  },
+  {
+    "id": 3201047,
+    "name": "Dubrovnik",
+    "country": "HR",
+    "coordinates": {
+      "lon": 18.092159,
+      "lat": 42.648071
+    }
+  },
+  {
+    "id": 3186952,
+    "name": "Zadar",
+    "country": "HR",
+    "coordinates": {
+      "lon": 15.24222,
+      "lat": 44.11972
+    }
+  },
+  {
+    "id": 3190359,
+    "name": "Solin",
+    "country": "HR",
+    "coordinates": {
+      "lon": 16.5,
+      "lat": 43.549999
+    }
+  },
+  {
+    "id": 3337532,
+    "name": "Zagreb",
+    "country": "HR",
+    "coordinates": {
+      "lon": 15.9773,
+      "lat": 45.813068
+    }
+  },
+  {
+    "id": 3188763,
+    "name": "Trogir",
+    "country": "HR",
+    "coordinates": {
+      "lon": 16.251671,
+      "lat": 43.512501
+    }
+  },
+  {
+    "id": 5128638,
+    "name": "New York",
+    "country": "US",
+    "coordinates": {
+      "lon": -75.499901,
+      "lat": 43.000351
+    }
+  },
+  {
+    "id": 2643744,
+    "name": "London",
+    "country": "GB",
+    "coordinates": {
+      "lon": -0.08901,
+      "lat": 51.51334
+    }
+  },
+  {
+    "id": 2968815,
+    "country": "FR",
+    "name": "Pariz",
+    "coordinates": {
+      "lon": 2.3486,
+      "lat": 48.853401
+    }
+  },
+  {
+    "id": 5368361,
+    "name": "Los Angeles",
+    "country": "US",
+    "coordinates": {
+      "lon": -118.243683,
+      "lat": 34.052231
+    }
+  },
+  {
+    "id": 3451190,
+    "name": "Rio de Janeiro",
+    "country": "BR",
+    "coordinates": {
+      "lon": -43.2075,
+      "lat": -22.902781
+    }
+  },
+  {
+    "id": 524894,
+    "name": "Moskva",
+    "country": "RU",
+    "coordinates": {
+      "lon": 37.606667,
+      "lat": 55.761665
+    }
+  },
+  {
+    "id": 292223,
+    "name": "Dubai",
+    "country": "AE",
+    "coordinates": {
+      "lon": 55.304722,
+      "lat": 25.258169
+    }
+  },
+  {
+    "id": 1850147,
+    "name": "Tokyo",
+    "country": "JP",
+    "coordinates": {
+      "lon": 139.691711,
+      "lat": 35.689499
+    }
+  },
+  {
+    "id": 2147714,
+    "name": "Sydney",
+    "country": "AU",
+    "coordinates": {
+      "lon": 151.207321,
+      "lat": -33.867851
+    }
+  },
+  {
+    "id": 360630,
+    "name": "Cairo",
+    "country": "EG",
+    "coordinates": {
+      "lon": 31.24967,
+      "lat": 30.06263
+    }
+  },
+  {
+    "id": 264371,
+    "name": "Atena",
+    "country": "GR",
+    "coordinates": {
+      "lon": 23.716221,
+      "lat": 37.97945
+    }
+  },
+  {
+    "id": 3117732,
+    "name": "Madrid",
+    "country": "ES",
+    "coordinates": {
+      "lon": -3.69063,
+      "lat": 40.425259
+    }
+  },
+  {
+    "id": 2267056,
+    "name": "Lisabon",
+    "country": "PT",
+    "coordinates": {
+      "lon": -9.13333,
+      "lat": 39
+    }
+  },
+  {
+    "id": 2950159,
+    "name": "Berlin",
+    "country": "DE",
+    "coordinates": {
+      "lon": 13.41053,
+      "lat": 52.524368
+    }
+  }
+]

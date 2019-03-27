@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lv 2</string>
+    <string name="title_activity_weather_details">WeatherDetailsActivity</string>
+</resources>
